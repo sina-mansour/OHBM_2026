@@ -80,5 +80,5 @@ Andrew Zalesky <sup><a href="#2">2</a>,<a href="#31">31</a></sup>
 <sup id="29">29</sup> *Department of Pharmacology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore* <br>
 <sup id="30">30</sup> *Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Charlestown, MA, United States* <br>
 <sup id="31">31</sup> *Department of Biomedical Engineering, The University of Melbourne, Parkville, Victoria, Australia* <br>
-<sup id="note-aibl">*</sup> *Data used in this research were obtained in part from the Australian Imaging Biomarkers and Lifestyle flagship study of ageing (AIBL).* <br>
-<sup id="note-adni">**</sup> *Data used in this research were obtained in part from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database.* <br>
+<sup id="note-aibl">&#42;</sup> *Data used in this research were obtained in part from the Australian Imaging Biomarkers and Lifestyle flagship study of ageing (AIBL).* <br>
+<sup id="note-adni">&#42;&#42;</sup> *Data used in this research were obtained in part from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database.* <br>
