@@ -32,9 +32,9 @@ Aaron Alexander-Bloch <sup><a href="#24">24</a>,<a href="#25">25</a>,<a href="#2
 Richard Bethlehem <sup><a href="#28">28</a></sup>, 
 Christopher Chen <sup><a href="#14">14</a>,<a href="#29">29</a></sup>, 
 Juan Helen Zhou <sup><a href="#1">1</a>,<a href="#3">3</a>,<a href="#4">4</a>,<a href="#5">5</a>,<a href="#9">9</a>,<a href="#11">11</a></sup>, 
-the Australian Imaging Biomarkers and Lifestyle Flagship Study of Ageing <sup><a href="#*">*</a></sup>, 
-the Alzheimer's Disease Neuroimaging Initiative <sup><a href="#**">**</a></sup>, 
-the Lifespan Brain Chart Consortium <sup><a href="#\hspace{-3pt}">\hspace{-3pt}</a></sup>, 
+the Australian Imaging Biomarkers and Lifestyle Flagship Study of Ageing <sup><a href="#note-aibl">*</a></sup>,
+the Alzheimer's Disease Neuroimaging Initiative <sup><a href="#note-adni">**</a></sup>, 
+the Lifespan Brain Chart Consortium, 
 B.T. Thomas Yeo <sup><a href="#1">1</a>,<a href="#3">3</a>,<a href="#4">4</a>,<a href="#5">5</a>,<a href="#6">6</a>,<a href="#9">9</a>,<a href="#10">10</a>,<a href="#11">11</a>,<a href="#30">30</a></sup>, 
 Andrew Zalesky <sup><a href="#2">2</a>,<a href="#31">31</a></sup>
 
@@ -80,5 +80,5 @@ Andrew Zalesky <sup><a href="#2">2</a>,<a href="#31">31</a></sup>
 <sup id="29">29</sup> *Department of Pharmacology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore* <br>
 <sup id="30">30</sup> *Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Charlestown, MA, United States* <br>
 <sup id="31">31</sup> *Department of Biomedical Engineering, The University of Melbourne, Parkville, Victoria, Australia* <br>
-<sup id="*">*</sup> *Data used in this research were obtained in part from the Australian Imaging Biomarkers and Lifestyle flagship study of ageing (AIBL).* <br>
-<sup id="**">**</sup> *Data used in this research were obtained in part from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database.* <br>
+<sup id="note-aibl">*</sup> *Data used in this research were obtained in part from the Australian Imaging Biomarkers and Lifestyle flagship study of ageing (AIBL).* <br>
+<sup id="note-adni">**</sup> *Data used in this research were obtained in part from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database.* <br>
