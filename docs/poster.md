@@ -54,6 +54,7 @@ Andrew Zalesky <sup><a href="#2">2</a>,<a href="#31">31</a></sup>
 ## Related materials
 
 - 📄 **Preprint**: [Spectral Normative Modeling of Brain Structure](https://doi.org/10.1101/2025.01.16.25320639) *(medRxiv, 2026)*
+- 💻 **Code**: [normative_brain_charts](https://github.com/sina-mansour/normative_brain_charts) *(MkDocs documentation site)*
 
 
 ---
