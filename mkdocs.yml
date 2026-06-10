@@ -1,0 +1,54 @@
+site_name: Sina Mansour L. — OHBM 2026
+site_description: Contributions to the OHBM 2026 Annual Meeting, Bordeaux
+site_author: Sina Mansour L.
+repo_url: https://github.com/sina-mansour/OHBM_2026
+repo_name: OHBM_2026
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections      # groups sidebar items
+    - navigation.expand        # expand sections by default
+    - navigation.indexes       # allows section index pages
+    - toc.integrate            # TOC integrated into left sidebar
+    - content.code.copy
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Oral Presentation: oral.md
+  - Poster Presentation: poster.md
+  - Symposium: symposium.md
+  - Brainhack Project: brainhack.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.arithmatex:
+      generic: true
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

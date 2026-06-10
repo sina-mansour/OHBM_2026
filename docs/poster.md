@@ -43,7 +43,18 @@ Andrew Zalesky <sup><a href="#2">2</a>,<a href="#31">31</a></sup>
 
 ## Poster
 
-🔗 Download link of the poster will be posted here soon.
+[![Poster preview](assets/poster/Mansour_OHBM2026_poster.webp)](assets/poster/Mansour_OHBM2026_poster.pdf)
+
+📥 **[Download the full poster (PDF)](assets/poster/Mansour_OHBM2026_poster.pdf)**
+
+*Click the preview above or the link to download the high-resolution PDF.*
+
+---
+
+## Related materials
+
+- 📄 **Preprint**: [Spectral Normative Modeling of Brain Structure](https://doi.org/10.1101/2025.01.16.25320639) *(medRxiv, 2025)*
+
 
 ---
 
