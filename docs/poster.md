@@ -43,6 +43,8 @@ Andrew Zalesky <sup><a href="#2">2</a>,<a href="#31">31</a></sup>
 
 ## Poster
 
+Poster #1054, Presentation slot: 15,16 June 2026
+
 [![Poster preview](assets/poster/Mansour_OHBM2026_poster.webp)](assets/poster/Mansour_OHBM2026_poster.pdf)
 
 📥 **[Download the full poster (PDF)](assets/poster/Mansour_OHBM2026_poster.pdf)**
