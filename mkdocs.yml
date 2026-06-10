@@ -7,6 +7,9 @@ repo_name: OHBM_2026
 
 theme:
   name: material
+  icon:
+    logo: material/brain
+  favicon: assets/favicon.svg
   palette:
     - scheme: default
       primary: teal
