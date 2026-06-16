@@ -23,14 +23,14 @@ For full author list, affiliations, and the poster itself, see the [poster prese
 ## Slides
 
 <a href="https://sina-mansour.github.io/OHBM_2026_oral/" target="_blank">
-  <img src="assets/slides/preview.webp" alt="Presentation slides preview"
+  <img src="https://sina-mansour.github.io/OHBM_2026/assets/slides/preview.webp" alt="Presentation slides preview"
        style="max-width: 800px; width: 100%; border: 1px solid #ddd; border-radius: 4px;" />
 </a>
 
 🎬 **[View the live presentation](https://sina-mansour.github.io/OHBM_2026_oral/)** *(includes animations and interactivity)*
 
-📥 **[Download PDF version](assets/slides/oral.pdf)**
-📥 **[Download PPTX version](assets/slides/oral.pptx)**
+📥 **[Download PDF version](https://sina-mansour.github.io/OHBM_2026/assets/slides/oral.pdf)**
+📥 **[Download PPTX version](https://sina-mansour.github.io/OHBM_2026/assets/slides/oral.pptx)**
 
 ---
 
