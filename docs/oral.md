@@ -27,7 +27,7 @@ For full author list, affiliations, and the poster itself, see the [poster prese
        style="max-width: 800px; width: 100%; border: 1px solid #ddd; border-radius: 4px;" />
 </a>
 
-🎬 **[View the live presentation](https://sina-mansour.github.io/OHBM_2026_oral/)** *(includes animations and interactivity)*
+🎬 **[View the live presentation](https://sina-mansour.github.io/OHBM_2026_oral/){target="_blank"}** *(includes animations and interactivity)*
 
 📥 **[Download PDF version](https://sina-mansour.github.io/OHBM_2026/assets/slides/oral.pdf)**
 📥 **[Download PPTX version](https://sina-mansour.github.io/OHBM_2026/assets/slides/oral.pptx)**
